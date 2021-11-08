@@ -6,7 +6,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 Öncelikle projeyi clonelayın.
 
-> git clone https://github.com/mufferone/kodluyoruzilkrepo.git
+    git clone https://github.com/mufferone/kodluyoruzilkrepo.git
 
 ## Usage
 
@@ -14,8 +14,8 @@ Projeyi cloneladıktan sonra Vİsiual Studio Code programında açınız.
 
 Linux için;
 
-> cd kodluyoruzilkrepo
-> code .
+    cd kodluyoruzilkrepo
+    code .
 
 ## Contributing
 
